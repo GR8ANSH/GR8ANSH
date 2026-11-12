@@ -2,7 +2,7 @@
 <!-- HERO HEADER: ANIMATED TYPING INTRO BANNER                -->
 <!-- ======================================================== -->
 <a href="https://github.com/GR8ANSH">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=false&vCenter=true&width=780&height=75&lines=%F0%9F%91%8B+Hi+there!+I'm+Ansh+Singh+(%40GR8ANSH);%E2%9A%A1+Founder+%26+Lead+Architect+%40+AuraTip.live;%F0%9F%9A%80+Full-Stack+Systems+Engineer+%E2%80%A2+Real-Time+APIs;%F0%9F%9B%A0%EF%B8%8F+WebSockets+%E2%80%A2+High-Performance+Discord+Bots" alt="👋 Hi there! I'm Ansh" title="👋 Hi there! I'm Ansh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2500&pause=800&color=00F0FF&background=0D111700&center=false&vCenter=true&width=800&height=75&lines=%F0%9F%91%8B+Hi+there!+I'm+Ansh+Singh+(%40GR8ANSH);%E2%9A%A1+Founder+%26+Lead+Architect+%40+AuraTip.live;%F0%9F%92%BC+Full-Stack+Engineer+%E2%80%A2+Enterprise+WFM+Systems;%F0%9F%8E%AC+Automated+Media+Servers+%26+High-Availability+NAS;%F0%9F%9B%A0%EF%B8%8F+Real-Time+WebSockets+%E2%80%A2+Discord+Bot+Infra" alt="👋 Hi there! I'm Ansh" title="👋 Hi there! I'm Ansh" />
 </a>
 
 <!-- ======================================================== -->
@@ -45,9 +45,11 @@
 <!-- PERSONAL BIO & MISSION DIRECTIVE                         -->
 <!-- ======================================================== -->
 <p align="justify">
-Welcome to my GitHub page! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>), a Full-Stack Systems Engineer and builder passionate about architecting high-throughput applications, event-driven backends, and responsive user experiences. 
+Welcome to my GitHub page! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>), a Full-Stack Systems Engineer and homelab architect passionate about building high-throughput web applications, event-driven backends, and resilient infrastructure. 
 
-I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip</b></a> — an instant live-streaming tipping and creator monetization platform equipped with real-time overlay synchronization, custom visual donation auras, and an intelligent Discord Gateway automation bot. Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and <a href="https://www.youtube.com/@GR8ANSH"><b>YouTube</b></a>, join our community on <a href="https://discord.com/invite/r2XwC65"><b>Discord</b></a>, or reach out for inquiries at <a href="mailto:1010ansh@gmail.com"><b>1010ansh@gmail.com</b></a>.
+My work spans from consumer-facing real-time platforms like <a href="https://auratip.live"><b>AuraTip</b></a> (a live-streaming creator monetization platform with sub-second WebSocket overlay alerts and intelligent Discord bots) and operational software like an enterprise <b>Workforce Management (WFM) Tool</b>, to designing robust self-hosted environments including <b>Automated Media Server stacks</b> and <b>High-Availability ZFS NAS deployments</b>. 
+
+Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and <a href="https://www.youtube.com/@GR8ANSH"><b>YouTube</b></a>, join our community on <a href="https://discord.com/invite/r2XwC65"><b>Discord</b></a>, or connect directly for business at <a href="mailto:1010ansh@gmail.com"><b>1010ansh@gmail.com</b></a>.
 </p>
 
 <!-- ======================================================== -->
@@ -138,7 +140,7 @@ I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip
     </td>
   </tr>
 
-  <!-- ROW 3: DEVOPS, TOOLS & CLOUD -->
+  <!-- ROW 3: DEVOPS, INFRASTRUCTURE & TOOLS -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -161,6 +163,10 @@ I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip
       <br>Linux
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
@@ -172,10 +178,6 @@ I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-      <br>NPM
-    </td>
   </tr>
 </table>
 
@@ -185,59 +187,120 @@ I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip
 ## Featured Projects & Deployments 📌
 
 <details open>
-  <summary>Flagship Deployments & Repositories 🚀</summary>
+  <summary>Flagship Systems, Platforms & Homelab Infrastructure 🚀</summary>
   <br/>
 
   <table>
+    <!-- ROW 1: AURATIP + ENTERPRISE WFM TOOL -->
     <tr>
-      <!-- AURATIP LIVE PLATFORM -->
+      <!-- 1. AURATIP ECOSYSTEM -->
       <td width="50%" valign="top">
-        <h3 align="center">⚡ AuraTip Platform</h3>
+        <h3 align="center">⚡ AuraTip Ecosystem</h3>
         <p align="center">
           <a href="https://auratip.live">
-            <img src="https://img.shields.io/badge/LIVE_PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
+            <img src="https://img.shields.io/badge/LIVE_PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
+          </a>
+          <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot">
+            <img src="https://img.shields.io/badge/BOT-Discord_Gateway-00F0FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="AuraTip Discord Bot" />
           </a>
         </p>
         <p>
-          <b>Live Streaming Creator Monetization & Tipping Ecosystem</b><br/>
-          Engineered for streamers and content creators to accept frictionless digital tips, dynamic visual aura alerts on OBS/Streamlabs overlays, and automated creator onboarding.
+          <b>Live Streaming Creator Monetization & Discord Automation Suite</b><br/>
+          Engineered for streamers and creators to accept frictionless digital tips, dynamic visual aura alerts on OBS/Streamlabs overlays, and automated creator onboarding via private DMs.
         </p>
         <ul>
           <li>⚡ <b>Sub-second WebSocket dispatch</b> to live stream overlays</li>
-          <li>🛡️ <b>Secure creator payouts</b> & transaction verification engine</li>
-          <li>🎨 <b>Dynamic Aura themes</b> responsive to tip volume and tiers</li>
+          <li>🎯 <b>Discord Snowflake Resolution</b> for seamless creator DM credential delivery</li>
+          <li>📢 <b>Multi-tier dispatch failover routing</b> (DM → Channel → Webhook)</li>
+          <li>📜 <b>Persistent JSON audit trails</b> for tamper-evident dispatch tracking</li>
         </ul>
         <p>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
           <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+          <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
         </p>
       </td>
 
-      <!-- AURATIP DISCORD BOT -->
+      <!-- 2. WORKFORCE MANAGEMENT (WFM) TOOL -->
       <td width="50%" valign="top">
-        <h3 align="center">🤖 AuraTip Discord Gateway</h3>
+        <h3 align="center">💼 Enterprise WFM Tool</h3>
         <p align="center">
-          <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot">
-            <img src="https://img.shields.io/badge/GITHUB_REPO-Auratip--Discord--Bot-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="AuraTip Discord Bot" />
-          </a>
+          <img src="https://img.shields.io/badge/SYSTEM-Workforce_Management-00F0FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="WFM Tool" />
+          <img src="https://img.shields.io/badge/ENTERPRISE-OPERATIONS-7928CA?style=for-the-badge&logo=superuser&logoColor=white&labelColor=0D1117" alt="Enterprise Suite" />
         </p>
         <p>
-          <b>Official Discord Automation & Creator Integration Gateway</b><br/>
-          Intelligent multi-tier dispatch bot that connects the AuraTip tipping engine directly into Discord communities and creator servers.
+          <b>Intelligent Workforce Planning, Scheduling & Productivity Engine</b><br/>
+          A centralized operations suite engineered to forecast team capacity, automate complex recurring shift rotations, and monitor real-time adherence across operational queues.
         </p>
         <ul>
-          <li>🔐 <b>Personal DM Onboarding</b> — delivers credentials securely in private DMs</li>
-          <li>🎯 <b>Username Resolution</b> — maps handles/mentions to Discord Snowflake IDs</li>
-          <li>📢 <b>Smart Dispatch</b> — DM → Channel → Webhook failover routing</li>
-          <li>📜 <b>Persistent JSON Audit Logging</b> for tamper-evident dispatch history</li>
+          <li>📅 <b>Dynamic Shift Scheduling Engine</b> with automated conflict resolution</li>
+          <li>⏱️ <b>Real-Time Agent Adherence</b> & live attendance telemetry tracking</li>
+          <li>📊 <b>Performance Analytics Dashboards</b> for operational capacity planning</li>
+          <li>🔒 <b>Role-Based Access Control (RBAC)</b> with granular audit history</li>
         </ul>
         <p>
-          <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Dashboard-00F0FF?style=flat-square&logo=html5&logoColor=black" />
-          <img src="https://img.shields.io/badge/License-MIT-39FF14?style=flat-square" />
+          <img src="https://img.shields.io/badge/React%20/%20Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+
+    <!-- ROW 2: AUTOMATED MEDIA SERVER + HIGH-AVAILABILITY NAS -->
+    <tr>
+      <!-- 3. AUTOMATED MEDIA SERVER -->
+      <td width="50%" valign="top">
+        <h3 align="center">🎬 Automated Media Server Stack</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HOMELAB-Media_Server-E5A00D?style=for-the-badge&logo=plex&logoColor=white&labelColor=0D1117" alt="Media Server" />
+          <img src="https://img.shields.io/badge/HARDWARE-NVENC_Transcoding-39FF14?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=0D1117" alt="NVENC Transcoding" />
+        </p>
+        <p>
+          <b>High-Throughput Self-Hosted Transcoding & Content Pipeline</b><br/>
+          Complete automated media ecosystem providing low-latency hardware-accelerated video streaming across local and remote endpoints with automated content ingestion.
+        </p>
+        <ul>
+          <li>⚡ <b>Hardware Transcoding Pipelines</b> leveraging Intel QuickSync & NVENC</li>
+          <li>🤖 <b>Automated Indexer / Downloader Integrations</b> via webhooks & APIs</li>
+          <li>🔒 <b>Nginx Reverse Proxy & SSL Termination</b> for secure zero-trust streaming</li>
+          <li>📦 <b>Isolated Container Architecture</b> via optimized Docker Compose networks</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jellyfin%20/%20Plex-E5A00D?style=flat-square&logo=plex&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        </p>
+      </td>
+
+      <!-- 4. HIGH-AVAILABILITY NAS DEPLOYMENT -->
+      <td width="50%" valign="top">
+        <h3 align="center">💾 High-Availability NAS Deployment</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/STORAGE-ZFS_NAS_Cluster-00A4DC?style=for-the-badge&logo=truenas&logoColor=white&labelColor=0D1117" alt="TrueNAS" />
+          <img src="https://img.shields.io/badge/BACKUP-3--2--1_Rule-39FF14?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117" alt="3-2-1 Rule" />
+        </p>
+        <p>
+          <b>Fault-Tolerant Enterprise Storage & Remote Sync Architecture</b><br/>
+          Custom network-attached storage cluster engineered for bitrot prevention, multi-terabyte data integrity, encrypted off-site cloud sync, and ultra-fast network access.
+        </p>
+        <ul>
+          <li>🛡️ <b>Resilient ZFS Pools & RAIDZ Arrays</b> with scheduled scrubbing and SMART tests</li>
+          <li>☁️ <b>Automated 3-2-1 Backup Strategy</b> with encrypted remote snapshot replication</li>
+          <li>🚀 <b>High-Speed SMB / NFS Protocols</b> optimized for high-throughput video editing</li>
+          <li>🌐 <b>WireGuard & Tailscale Mesh VPN</b> for secure remote network tunnel access</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/TrueNAS%20/%20ZFS-00A4DC?style=flat-square&logo=truenas&logoColor=white" />
+          <img src="https://img.shields.io/badge/RAID-Fault_Tolerance-FF6C37?style=flat-square" />
+          <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
       </td>
     </tr>
