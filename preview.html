@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GR8ANSH // GitHub Profile Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Orbitron:wght@600;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --cyan: #00F0FF;
+      --neon-green: #39FF14;
+      --neon-pink: #FF007F;
+      --purple: #7928CA;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: radial-gradient(circle at 50% 0%, #171d2b 0%, #0d1117 70%);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 30px 15px;
+      min-height: 100vh;
+    }
+
+    .hud-bar {
+      max-width: 960px;
+      margin: 0 auto 20px auto;
+      background: rgba(22, 27, 34, 0.85);
+      border: 1px solid rgba(0, 240, 255, 0.3);
+      border-radius: 8px;
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 0 25px rgba(0, 240, 255, 0.1);
+      backdrop-filter: blur(10px);
+    }
+
+    .hud-title {
+      font-family: 'Orbitron', monospace;
+      font-size: 14px;
+      color: var(--cyan);
+      letter-spacing: 2px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .hud-pulse {
+      width: 10px;
+      height: 10px;
+      background: var(--neon-green);
+      border-radius: 50%;
+      box-shadow: 0 0 10px var(--neon-green);
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.4; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.2); }
+      100% { opacity: 0.4; transform: scale(0.9); }
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      background-color: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 35px 45px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+      position: relative;
+    }
+
+    .container::before {
+      content: '';
+      position: absolute;
+      top: -1px; left: 10%; right: 10%;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--cyan), var(--neon-pink), transparent);
+    }
+
+    h2 {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+      margin-top: 32px;
+      margin-bottom: 16px;
+      color: #58a6ff;
+      font-size: 1.5rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    h3 {
+      margin-top: 20px;
+      margin-bottom: 12px;
+      color: #e6edf3;
+      font-size: 1.15rem;
+    }
+
+    pre, code {
+      font-family: 'Fira Code', ui-monospace, SFMono-Regular, monospace;
+    }
+
+    pre {
+      background: #06090e;
+      border: 1px solid rgba(0, 240, 255, 0.2);
+      border-radius: 8px;
+      padding: 16px;
+      overflow-x: auto;
+      color: var(--cyan);
+      font-size: 13px;
+      line-height: 1.5;
+      box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8);
+      margin: 16px 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+
+    td {
+      border: 1px solid var(--border);
+      padding: 16px;
+      background-color: #121721;
+      border-radius: 6px;
+    }
+
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    details {
+      background: #111620;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin-top: 15px;
+    }
+
+    summary {
+      cursor: pointer;
+      color: var(--cyan);
+      font-weight: 600;
+    }
+
+    .badge-grid img {
+      margin: 4px;
+      transition: transform 0.2s ease;
+    }
+
+    .badge-grid img:hover {
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="hud-bar">
+    <div class="hud-title">
+      <div class="hud-pulse"></div>
+      GITHUB PROFILE PREVIEW ENGINE // TARGET: GR8ANSH
+    </div>
+    <div>
+      <span style="font-family: 'Fira Code', monospace; font-size: 12px; color: var(--text-muted);">
+        STATUS: LIVE SIMULATION
+      </span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <!-- HEADER -->
+    <div style="text-align: center;">
+      <a href="https://github.com/GR8ANSH" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&height=75&lines=%E2%9A%A1+ANSH+SINGH+%2F%2F+GR8ANSH;%E2%97%88+FULL-STACK+SYSTEMS+ARCHITECT;%E2%97%88+FOUNDER+%26+LEAD+%40+AURATIP.LIVE;%E2%97%88+REAL-TIME+WEBSOCKETS+%26+BOT+INFRASTRUCTURE;%E2%97%88+TURNING+COMPLEX+LOGIC+INTO+LIGHTNING" alt="Cyberpunk Typing Header" />
+      </a>
+
+      <p style="margin: 15px 0;">
+        <img src="https://komarev.com/ghpvc/?username=GR8ANSH&label=NEURAL+PINGS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+        <img src="https://img.shields.io/badge/FLAGSHIP-AURATIP.LIVE-FF007F?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
+        <img src="https://img.shields.io/badge/CORE_STATUS-OPERATIONAL%20%E2%9A%A1-00F0FF?style=for-the-badge&logo=statuspal&logoColor=00F0FF&labelColor=0D1117" alt="Status Operational" />
+        <img src="https://img.shields.io/badge/COMMS-AVAILABLE-39FF14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Comms Available" />
+      </p>
+
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Neon Divider" />
+
+      <p style="margin: 12px 0;">
+        <code>[ ⚡ TELEMETRY ]</code> &nbsp;•&nbsp;
+        <code>[ 🚀 EXPEDITIONS ]</code> &nbsp;•&nbsp;
+        <code>[ 🛠️ ARSENAL ]</code> &nbsp;•&nbsp;
+        <code>[ 📊 METRICS ]</code> &nbsp;•&nbsp;
+        <code>[ 🐍 GRID SNAKE ]</code> &nbsp;•&nbsp;
+        <code>[ 📡 TRANSMISSIONS ]</code>
+      </p>
+    </div>
+
+    <!-- TELEMETRY / ABOUT -->
+    <h2>⚡ System Telemetry // Diagnostics</h2>
+
+<pre><code>╭──────────────────────────────────────────────────────────────────────────────╮
+│  OPERATOR     : Ansh Singh (GR8ANSH)                                         │
+│  SECURITY LVL : Level-5 Full-Stack Engineer & Systems Architect              │
+│  DOMAIN       : High-Throughput Web, Microservices & Real-Time Event Meshes  │
+│  CORE MISSION : Architecting resilient, sub-second creator economies         │
+│  CURRENT OPS  : Scaling AuraTip (https://auratip.live) & Discord Bot Nodes   │
+│  WEAPONS      : TypeScript • Node.js • Express • React • Prisma • WebSockets │
+│  DATA CORE    : PostgreSQL • MongoDB • Redis • JSON Audit Streams            │
+│  LOCATION     : India [IN] // GMT+05:30                                      │
+│  DIRECTIVE    : "Ship relentlessly. Benchmark obsessively. Zero latency."    │
+╰──────────────────────────────────────────────────────────────────────────────╯</code></pre>
+
+    <h3>🛰️ Operator Briefing</h3>
+    <p>
+      I'm <strong>Ansh Singh</strong>, a software engineer and builder driven by high-concurrency systems, interactive interfaces, and developer-grade tooling.
+    </p>
+    <ul style="margin: 10px 0 10px 24px;">
+      <li>🌌 <strong>Founder & Architect</strong> of <strong><a href="https://auratip.live" target="_blank">AuraTip</a></strong> — powering next-gen live streaming monetization with instantaneous tip alerts, automated creator onboarding, and responsive dashboards.</li>
+      <li>⚡ <strong>Real-Time Specialist</strong> — building resilient event backbones using WebSockets, Gateway APIs, and pub-sub pipelines that never drop a packet.</li>
+      <li>🛠️ <strong>Full-Stack Mastery</strong> — comfortable anywhere between raw database indexes and pixel-perfect neon responsive UI.</li>
+      <li>🎯 <strong>Continuous Optimization</strong> — obsessed with sub-millisecond execution times, clean architecture, and bulletproof API contracts.</li>
+    </ul>
+
+    <!-- FLAGSHIP DEPLOYMENTS -->
+    <h2>🚀 Flagship Deployments // Expeditions</h2>
+    <table>
+      <tr>
+        <td width="50%" valign="top">
+          <h3 style="text-align: center;">⚡ AuraTip Platform</h3>
+          <p style="text-align: center; margin-bottom: 10px;">
+            <a href="https://auratip.live" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE_PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
+            </a>
+          </p>
+          <p>
+            <strong>Next-Gen Creator Monetization & Live Alert Engine</strong><br />
+            Engineered for streamers and creators to accept instant tipping with zero friction, multi-tiered visual aura notifications, and live stream overlay sync.
+          </p>
+          <ul style="margin: 8px 0 8px 20px; font-size: 14px;">
+            <li>⚡ <b>Sub-second alert dispatch</b> to OBS / Streamlabs overlays via WebSockets</li>
+            <li>🛡️ <b>Secure creator payouts</b> and transaction verification pipelines</li>
+            <li>🎨 <b>Dynamic Aura themes</b> responsive to tip volume and user tiers</li>
+          </ul>
+          <p style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Express-Framework-000000?style=flat-square&logo=express&logoColor=white" />
+            <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+            <img src="https://img.shields.io/badge/WebSockets-io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+          </p>
+        </td>
+        <td width="50%" valign="top">
+          <h3 style="text-align: center;">🤖 AuraTip Discord Gateway</h3>
+          <p style="text-align: center; margin-bottom: 10px;">
+            <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot" target="_blank">
+              <img src="https://img.shields.io/badge/REPO-Auratip--Discord--Bot-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="AuraTip Discord Bot" />
+            </a>
+          </p>
+          <p>
+            <strong>Official Discord Automation & Creator Gateway</strong><br />
+            Intelligent multi-tier dispatch bot that connects the AuraTip tipping engine directly into Discord communities and creator servers.
+          </p>
+          <ul style="margin: 8px 0 8px 20px; font-size: 14px;">
+            <li>🔐 <b>Personal DM Onboarding</b> — delivers credentials via encrypted DM</li>
+            <li>🎯 <b>Username Resolution</b> — maps handles to Discord Snowflake IDs</li>
+            <li>📢 <b>Smart Dispatch Engine</b> — DM → Channel → Webhook failover routing</li>
+            <li>📜 <b>Persistent JSON Audit Logging</b> for tamper-evident dispatch history</li>
+          </ul>
+          <p style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            <img src="https://img.shields.io/badge/Dashboard-Web%20UI-00F0FF?style=flat-square&logo=html5&logoColor=black" />
+            <img src="https://img.shields.io/badge/License-MIT-39FF14?style=flat-square" />
+          </p>
+        </td>
+      </tr>
+    </table>
+
+    <!-- ARSENAL / TECH MATRIX -->
+    <h2>🛠️ The Arsenal // Tech Matrix</h2>
+    <div style="text-align: center;" class="badge-grid">
+      <h3 style="color: var(--cyan); margin-top: 15px;">💻 Core Programming Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+      </p>
+
+      <h3 style="color: var(--neon-pink); margin-top: 15px;">⚙️ Backend, APIs & Real-Time Engine</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+        <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
+        <img src="https://img.shields.io/badge/REST_APIs-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Webhooks" />
+      </p>
+
+      <h3 style="color: #61DAFB; margin-top: 15px;">🎨 Frontend & Interface Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
+      </p>
+
+      <h3 style="color: var(--neon-green); margin-top: 15px;">🗄️ Database & Storage Layer</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+
+      <h3 style="color: var(--purple); margin-top: 15px;">☁️ Cloud, DevOps & Environments</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+      </p>
+    </div>
+
+    <!-- METRICS -->
+    <h2>📊 Live Telemetry // GitHub Metrics</h2>
+    <div style="text-align: center;">
+      <table border="0" style="background: transparent;">
+        <tr>
+          <td align="center" width="50%" style="background: #111620; border: 1px solid var(--border);">
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=GR8ANSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8" width="100%" alt="Ansh's GitHub Stats" />
+          </td>
+          <td align="center" width="50%" style="background: #111620; border: 1px solid var(--border);">
+            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=GR8ANSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94a3b8" width="100%" alt="Top Languages" />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center" style="background: #111620; border: 1px solid var(--border);">
+            <img src="https://streak-stats.demolab.com?user=GR8ANSH&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak Stats" />
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- SNAKE -->
+    <h2>🐍 Quantum Grid Snake // Activity Stream</h2>
+    <div style="text-align: center; padding: 20px 0;">
+      <img src="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake-dark.svg" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/master/packages/action/src/test/fixtures/github-contribution-grid-snake.svg'" width="100%" alt="Snake Grid Animation" style="border-radius: 8px; border: 1px solid rgba(0, 240, 255, 0.2);" />
+      <p style="margin-top: 10px; color: var(--text-muted); font-size: 13px;">
+        <em>Automated via GitHub Actions • Consuming commits across the space-time grid</em>
+      </p>
+    </div>
+
+    <!-- TERMINAL PHILOSOPHY -->
+    <h2>💡 Developer Protocol // Philosophy</h2>
+    <div style="text-align: center; margin: 15px 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=const+engineer+%3D+new+Engineer('Ansh+Singh')%3B;while(engineer.isBreathing())+%7B+engineer.buildFuture()%3B+%7D;console.log('Zero+downtime.+Infinite+scalability.')%3B" alt="Terminal Code Philosophy" />
+    </div>
+
+    <!-- TRANSMISSIONS -->
+    <h2>📡 Transmission Frequencies // Open Comms</h2>
+    <div style="text-align: center; margin: 25px 0;">
+      <p style="margin-bottom: 20px; color: var(--text-muted);">
+        Got a challenging architecture, an ambitious project, or want to collaborate on high-scale systems? Connect through the network:
+      </p>
+      <p>
+        <a href="mailto:greatansh10@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/DIRECT_EMAIL-greatansh10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/GR8ANSH" target="_blank">
+          <img src="https://img.shields.io/badge/GITHUB-GR8ANSH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        &nbsp;
+        <a href="https://auratip.live" target="_blank">
+          <img src="https://img.shields.io/badge/PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=lightning&logoColor=white" alt="AuraTip" />
+        </a>
+        &nbsp;
+        <a href="https://discord.com" target="_blank">
+          <img src="https://img.shields.io/badge/DISCORD-gr8ansh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        </a>
+      </p>
+
+      <br />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Footer Laser" />
+      <p style="margin-top: 15px; font-size: 13px; color: var(--text-muted);">
+        <strong>SYSTEM GR8ANSH.SYS</strong> // BUILT WITH INTENT & OBSESSIVE CRAFTSMANSHIP // 2026
+      </p>
+    </div>
+
+  </div>
+
+</body>
+</html>
