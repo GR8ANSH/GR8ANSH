@@ -2,8 +2,18 @@
 <!-- HERO HEADER: ANIMATED TYPING INTRO BANNER                -->
 <!-- ======================================================== -->
 <a href="https://github.com/GR8ANSH">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2500&pause=800&color=00F0FF&background=0D111700&center=false&vCenter=true&width=800&height=75&lines=%F0%9F%91%8B+Hi+there!+I'm+Ansh+Singh+(%40GR8ANSH);%E2%9A%A1+Founder+%26+Lead+Architect+%40+AuraTip.live;%F0%9F%92%BC+Full-Stack+Engineer+%E2%80%A2+Enterprise+WFM+Systems;%F0%9F%8E%AC+Automated+Media+Servers+%26+High-Availability+NAS;%F0%9F%9B%A0%EF%B8%8F+Real-Time+WebSockets+%E2%80%A2+Discord+Bot+Infra" alt="👋 Hi there! I'm Ansh" title="👋 Hi there! I'm Ansh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2500&pause=800&color=00F0FF&background=0D111700&center=false&vCenter=true&width=800&height=75&lines=%F0%9F%91%8B+Hi+there!+I'm+Ansh+Singh+(%40GR8ANSH);%F0%9F%8E%AE+Gamer+%26+Live+Streamer+on+Kick+%26+YouTube;%F0%9F%AA%84+100%25+Vibe+Coder+%E2%80%A2+Building+With+AI;%E2%9A%A1+Creator+of+AuraTip.live+(Built+with+Vibes+%26+AI);%F0%9F%96%A5%EF%B8%8F+Tech+Enthusiast+%E2%80%A2+Media+Servers+%26+ZFS+NAS" alt="👋 Hi there! I'm Ansh" title="👋 Hi there! I'm Ansh" />
 </a>
+
+<!-- ======================================================== -->
+<!-- VIBE CODER & STREAMER IDENTITY PILLS                     -->
+<!-- ======================================================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/IDENTITY-GAMER%20%26%20STREAMER-53FC18?style=for-the-badge&logo=kick&logoColor=black&labelColor=0D1117" alt="Streamer" />
+  <img src="https://img.shields.io/badge/DEV_STYLE-VIBE%20CODER%20%E2%9C%A8-FF007F?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/STACK-PROMPTS%20%2B%20AI%20AGENTS-00F0FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="AI Stack" />
+  <img src="https://img.shields.io/badge/HOMELAB-MEDIA%20SERVER%20%2B%20NAS-7928CA?style=for-the-badge&logo=truenas&logoColor=white&labelColor=0D1117" alt="Homelab" />
+</p>
 
 <!-- ======================================================== -->
 <!-- SOCIAL & NETWORK LINKS (RZASHAKERI STYLE)                -->
@@ -40,25 +50,30 @@
 <p></p>
 
 <!-- ======================================================== -->
-<!-- PERSONAL BIO & MISSION DIRECTIVE                         -->
+<!-- PERSONAL BIO & AUTHENTIC VIBE CODER DIRECTIVE            -->
 <!-- ======================================================== -->
 <p align="justify">
-Welcome to my GitHub page! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>), a Full-Stack Systems Engineer and homelab architect passionate about building high-throughput web applications, event-driven backends, and resilient infrastructure. 
+Welcome to my corner of GitHub! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>) — a <b>gamer, live streamer, tech enthusiast, and 100% vibe coder</b>. 🕹️⚡
 
-My work spans from consumer-facing real-time platforms like <a href="https://auratip.live"><b>AuraTip</b></a> (a live-streaming creator monetization platform with sub-second WebSocket overlay alerts and intelligent Discord bots) and operational software like an enterprise <b>Workforce Management (WFM) Tool</b>, to designing robust self-hosted environments including <b>Automated Media Server stacks</b> and <b>High-Availability ZFS NAS deployments</b>. 
+Let's keep it real: I'm not a traditional software engineer grinding LeetCode or writing raw boilerplate from memory. <b>I code with vibes and AI.</b> I have ideas, visions for apps, and the stubborn curiosity to prompt modern AI agents, debug live, and ship real, functioning software into production.
 
-Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and <a href="https://www.youtube.com/@GR8ANSH"><b>YouTube</b></a>, join our community on <a href="https://discord.com/invite/r2XwC65"><b>Discord</b></a>, or connect directly for business at <a href="mailto:1010ansh@gmail.com"><b>1010ansh@gmail.com</b></a>.
+That's how I created <a href="https://auratip.live"><b>AuraTip</b></a> (a live streaming tipping platform built for creators with real-time WebSocket alerts and Discord bots), deployed my automated <b>Media Server & ZFS NAS homelab</b>, and put together internal productivity tools like my <b>Workforce Management (WFM) Suite</b>.
+
+When I'm not prompting AI to build cool projects, you'll find me streaming live on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and <a href="https://www.youtube.com/@GR8ANSH"><b>YouTube</b></a>, hanging out in our <a href="https://discord.com/invite/r2XwC65"><b>Discord community</b></a>, or tinkering with homelab hardware.
 </p>
 
 <!-- ======================================================== -->
 <!-- MY FAVORITE TOOLS AND TECHNOLOGIES ⚙️                     -->
 <!-- ======================================================== -->
-## My favorite tools and technologies ⚙️
+## My Vibe Coding & Homelab Arsenal ⚙️
 
-> Tools and technologies that I have worked with and am passionate about
+> Technologies, AI workflows, and homelab tools I use to build, prompt, and self-host
 
 <table>
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
 </td>
@@ -79,9 +94,6 @@ Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and 
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
@@ -150,10 +162,10 @@ Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and 
 <!-- ======================================================== -->
 <!-- FEATURED PROJECTS & DEPLOYMENTS 📌                       -->
 <!-- ======================================================== -->
-## Featured Projects & Deployments 📌
+## Things I've Built & Deployed 📌
 
 <details open>
-<summary>Flagship Systems, Platforms & Homelab Infrastructure 🚀</summary>
+<summary>Vibe-Coded Platforms & Homelab Projects 🚀</summary>
 <br/>
 
 <table>
@@ -169,14 +181,14 @@ Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and 
 </a>
 </p>
 <p>
-<b>Live Streaming Creator Monetization & Discord Automation Suite</b><br/>
-Engineered for streamers and creators to accept frictionless digital tips, dynamic visual aura alerts on OBS/Streamlabs overlays, and automated creator onboarding via private DMs.
+<b>Live Streaming Tipping & Discord Alert Suite (Built with AI & Vibes)</b><br/>
+I wanted a smooth way for live streamers to accept tips and broadcast real-time on-screen alerts, so I prompted AuraTip into existence.
 </p>
 <ul>
-<li>⚡ <b>Sub-second WebSocket dispatch</b> to live stream overlays</li>
-<li>🎯 <b>Discord Snowflake Resolution</b> for seamless creator DM credential delivery</li>
-<li>📢 <b>Multi-tier dispatch failover routing</b> (DM → Channel → Webhook)</li>
-<li>📜 <b>Persistent JSON audit trails</b> for tamper-evident dispatch tracking</li>
+<li>⚡ <b>Sub-second WebSocket dispatch</b> syncing alerts to OBS / Streamlabs overlays</li>
+<li>🎯 <b>Discord Snowflake Resolution</b> to send credentials privately to creators</li>
+<li>📢 <b>Smart dispatch fallback</b> (DM → Server Channel → Webhook)</li>
+<li>📜 <b>Persistent JSON audit trails</b> keeping track of every tip broadcast</li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -193,14 +205,14 @@ Engineered for streamers and creators to accept frictionless digital tips, dynam
 <img src="https://img.shields.io/badge/ENTERPRISE-OPERATIONS-7928CA?style=for-the-badge&logo=superuser&logoColor=white&labelColor=0D1117" alt="Enterprise Suite" />
 </p>
 <p>
-<b>Intelligent Workforce Planning, Scheduling & Productivity Engine</b><br/>
-A centralized operations suite engineered to forecast team capacity, automate complex recurring shift rotations, and monitor real-time adherence across operational queues.
+<b>Shift Scheduling & Operations Productivity Dashboard</b><br/>
+Built to eliminate spreadsheet chaos by automating recurring shift schedules, tracking live agent attendance, and giving clear team analytics.
 </p>
 <ul>
-<li>📅 <b>Dynamic Shift Scheduling Engine</b> with automated conflict resolution</li>
-<li>⏱️ <b>Real-Time Agent Adherence</b> & live attendance telemetry tracking</li>
-<li>📊 <b>Performance Analytics Dashboards</b> for operational capacity planning</li>
-<li>🔒 <b>Role-Based Access Control (RBAC)</b> with granular audit history</li>
+<li>📅 <b>Dynamic Shift Scheduling Engine</b> with automated shift conflict warnings</li>
+<li>⏱️ <b>Real-Time Agent Adherence</b> & live attendance status tracking</li>
+<li>📊 <b>Performance Analytics Dashboards</b> for clear operational visibility</li>
+<li>🔒 <b>Role-Based Access Control (RBAC)</b> with granular security</li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/React%20/%20Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -219,14 +231,14 @@ A centralized operations suite engineered to forecast team capacity, automate co
 <img src="https://img.shields.io/badge/HARDWARE-NVENC_Transcoding-39FF14?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=0D1117" alt="NVENC Transcoding" />
 </p>
 <p>
-<b>High-Throughput Self-Hosted Transcoding & Content Pipeline</b><br/>
-Complete automated media ecosystem providing low-latency hardware-accelerated video streaming across local and remote endpoints with automated content ingestion.
+<b>Self-Hosted Hardware-Accelerated Streaming Cluster</b><br/>
+My personal homelab entertainment hub: automatically fetches, organizes, and hardware-transcodes 4K/1080p media on-the-fly for any device.
 </p>
 <ul>
-<li>⚡ <b>Hardware Transcoding Pipelines</b> leveraging Intel QuickSync & NVENC</li>
-<li>🤖 <b>Automated Indexer / Downloader Integrations</b> via webhooks & APIs</li>
-<li>🔒 <b>Nginx Reverse Proxy & SSL Termination</b> for secure zero-trust streaming</li>
-<li>📦 <b>Isolated Container Architecture</b> via optimized Docker Compose networks</li>
+<li>⚡ <b>Hardware Transcoding Pipelines</b> leveraging Intel QuickSync & Nvidia NVENC</li>
+<li>🤖 <b>Automated Indexers & Downloaders</b> linked via webhooks & REST APIs</li>
+<li>🔒 <b>Nginx Reverse Proxy & SSL</b> for secure streaming from anywhere</li>
+<li>📦 <b>Isolated Container Architecture</b> running seamlessly in Docker Compose</li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -243,14 +255,14 @@ Complete automated media ecosystem providing low-latency hardware-accelerated vi
 <img src="https://img.shields.io/badge/BACKUP-3--2--1_Rule-39FF14?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117" alt="3-2-1 Rule" />
 </p>
 <p>
-<b>Fault-Tolerant Enterprise Storage & Remote Sync Architecture</b><br/>
-Custom network-attached storage cluster engineered for bitrot prevention, multi-terabyte data integrity, encrypted off-site cloud sync, and ultra-fast network access.
+<b>Fault-Tolerant Storage & 3-2-1 Backup Homelab Setup</b><br/>
+Custom-configured storage server engineered to keep stream recordings, game captures, and critical files safe with zero bitrot risk.
 </p>
 <ul>
-<li>🛡️ <b>Resilient ZFS Pools & RAIDZ Arrays</b> with scheduled scrubbing and SMART tests</li>
-<li>☁️ <b>Automated 3-2-1 Backup Strategy</b> with encrypted remote snapshot replication</li>
-<li>🚀 <b>High-Speed SMB / NFS Protocols</b> optimized for high-throughput video editing</li>
-<li>🌐 <b>WireGuard & Tailscale Mesh VPN</b> for secure remote network tunnel access</li>
+<li>🛡️ <b>Resilient ZFS Pools & RAIDZ Arrays</b> with scheduled scrubbing & SMART checks</li>
+<li>☁️ <b>Automated 3-2-1 Backup Strategy</b> with offsite encrypted cloud replication</li>
+<li>🚀 <b>High-Speed SMB / NFS Shares</b> tuned for quick gaming & video editing access</li>
+<li>🌐 <b>WireGuard Mesh VPN</b> for encrypted access when away from home</li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/TrueNAS%20/%20ZFS-00A4DC?style=flat-square&logo=truenas&logoColor=white" />
@@ -324,10 +336,10 @@ Custom network-attached storage cluster engineered for bitrot prevention, multi-
 <!-- ======================================================== -->
 <!-- TRANSMISSIONS & DIRECT NETWORKS 📡                        -->
 <!-- ======================================================== -->
-## Direct Transmissions & Networks 📡
+## Connect & Catch The Stream 📡
 
 <div align="center">
-<p>Got a challenging architecture, an ambitious project, or want to collaborate?</p>
+<p>Want to talk tech, collaborate on a project, or just chill during live streams? Hit me up:</p>
 
 <p>
 <a href="mailto:1010ansh@gmail.com">
@@ -361,12 +373,12 @@ Custom network-attached storage cluster engineered for bitrot prevention, multi-
 <br/>
 
 <!-- ======================================================== -->
-<!-- DEVELOPER PROTOCOL & PHILOSOPHY 💡                        -->
+<!-- VIBE CODER PHILOSOPHY 💡                                 -->
 <!-- ======================================================== -->
-## Developer Protocol & Philosophy 💡
+## Vibe Coder Protocol 💡
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=const+engineer+%3D+new+Engineer('Ansh+Singh')%3B;while(engineer.isBreathing())+%7B+engineer.buildFuture()%3B+%7D;console.log('Zero+downtime.+Infinite+scalability.')%3B" alt="Terminal Code Philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=const+creator+%3D+%22Ansh+Singh%22%3B+%2F%2F+100%25+Vibe+Coder;while+(vibes+%26%26+ai)+%7B+prompt()%3B+testLocally()%3B+ship()%3B+%7D;console.log(%22Powered+by+AI.+Fueled+by+vibes.+It+just+works.%22)%3B" alt="Vibe Coder Philosophy" />
 </div>
 
 <br/>
