@@ -10,28 +10,32 @@
 <!-- ======================================================== -->
 <div align="justify">
 
-<a href="mailto:greatansh10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:1010ansh@gmail.com">
+<img src="https://img.shields.io/badge/Work_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/1010ansh">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@GR8ANSH">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kick.com/gr8ansh">
+<img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/invite/r2XwC65">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auratip.live">
 <img src="https://img.shields.io/badge/AuraTip-FF007F?style=for-the-badge&logo=sparkles&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/GR8ANSH">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
 </div>
@@ -43,7 +47,7 @@
 <p align="justify">
 Welcome to my GitHub page! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>), a Full-Stack Systems Engineer and builder passionate about architecting high-throughput applications, event-driven backends, and responsive user experiences. 
 
-I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip</b></a> — an instant live-streaming tipping and creator monetization platform equipped with real-time overlay synchronization, custom visual donation auras, and an intelligent Discord Gateway automation bot. I love turning complex architectural problems into elegant, sub-second, zero-latency software.
+I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip</b></a> — an instant live-streaming tipping and creator monetization platform equipped with real-time overlay synchronization, custom visual donation auras, and an intelligent Discord Gateway automation bot. Catch my live streams on <a href="https://kick.com/gr8ansh"><b>Kick</b></a> and <a href="https://www.youtube.com/@GR8ANSH"><b>YouTube</b></a>, join our community on <a href="https://discord.com/invite/r2XwC65"><b>Discord</b></a>, or reach out for inquiries at <a href="mailto:1010ansh@gmail.com"><b>1010ansh@gmail.com</b></a>.
 </p>
 
 <!-- ======================================================== -->
@@ -299,6 +303,45 @@ I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip
     <p><sub><i>Automated via GitHub Actions • Consuming commits across the grid</i></sub></p>
   </div>
 </details>
+
+<!-- ======================================================== -->
+<!-- TRANSMISSIONS & DIRECT NETWORKS 📡                        -->
+<!-- ======================================================== -->
+## Direct Transmissions & Networks 📡
+
+<div align="center">
+  <p>Got a challenging architecture, an ambitious project, or want to collaborate?</p>
+  
+  <p>
+    <a href="mailto:1010ansh@gmail.com">
+      <img src="https://img.shields.io/badge/Work%20Mail-1010ansh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/1010ansh" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-1010ansh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/@GR8ANSH" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-%40GR8ANSH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://kick.com/gr8ansh" target="_blank">
+      <img src="https://img.shields.io/badge/Kick-gr8ansh-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/invite/r2XwC65" target="_blank">
+      <img src="https://img.shields.io/badge/Discord%20Server-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    &nbsp;
+    <a href="https://auratip.live" target="_blank">
+      <img src="https://img.shields.io/badge/Platform-auratip.live-FF007F?style=for-the-badge&logo=sparkles&logoColor=white" alt="AuraTip" />
+    </a>
+  </p>
+</div>
+
+<br/>
 
 <!-- ======================================================== -->
 <!-- DEVELOPER PROTOCOL & PHILOSOPHY 💡                        -->
