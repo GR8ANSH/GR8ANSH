@@ -1,309 +1,319 @@
-<div align="center">
+<!-- ======================================================== -->
+<!-- HERO HEADER: ANIMATED TYPING INTRO BANNER                -->
+<!-- ======================================================== -->
+<a href="https://github.com/GR8ANSH">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=false&vCenter=true&width=780&height=75&lines=%F0%9F%91%8B+Hi+there!+I'm+Ansh+Singh+(%40GR8ANSH);%E2%9A%A1+Founder+%26+Lead+Architect+%40+AuraTip.live;%F0%9F%9A%80+Full-Stack+Systems+Engineer+%E2%80%A2+Real-Time+APIs;%F0%9F%9B%A0%EF%B8%8F+WebSockets+%E2%80%A2+High-Performance+Discord+Bots" alt="👋 Hi there! I'm Ansh" title="👋 Hi there! I'm Ansh" />
+</a>
 
-  <!-- ======================================================== -->
-  <!-- CYBERPUNK HUD TYPING HEADER                              -->
-  <!-- ======================================================== -->
-  <a href="https://github.com/GR8ANSH">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&height=75&lines=%E2%9A%A1+ANSH+SINGH+%2F%2F+GR8ANSH;%E2%97%88+FULL-STACK+SYSTEMS+ARCHITECT;%E2%97%88+FOUNDER+%26+LEAD+%40+AURATIP.LIVE;%E2%97%88+REAL-TIME+WEBSOCKETS+%26+BOT+INFRASTRUCTURE;%E2%97%88+TURNING+COMPLEX+LOGIC+INTO+LIGHTNING" alt="Cyberpunk Typing Header" />
-  </a>
+<!-- ======================================================== -->
+<!-- SOCIAL & NETWORK LINKS (RZASHAKERI STYLE)                -->
+<!-- ======================================================== -->
+<div align="justify">
 
-  <!-- ======================================================== -->
-  <!-- SYSTEM STATUS BADGES & TELEMETRY PILLS                   -->
-  <!-- ======================================================== -->
-  <p align="center">
-    <a href="https://github.com/GR8ANSH">
-      <img src="https://komarev.com/ghpvc/?username=GR8ANSH&label=NEURAL+PINGS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="https://auratip.live">
-      <img src="https://img.shields.io/badge/FLAGSHIP-AURATIP.LIVE-FF007F?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
-    </a>
-    <a href="https://github.com/GR8ANSH">
-      <img src="https://img.shields.io/badge/CORE_STATUS-OPERATIONAL%20%E2%9A%A1-00F0FF?style=for-the-badge&logo=statuspal&logoColor=00F0FF&labelColor=0D1117" alt="Status Operational" />
-    </a>
-    <a href="mailto:greatansh10@gmail.com">
-      <img src="https://img.shields.io/badge/COMMS-AVAILABLE-39FF14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Comms Available" />
-    </a>
-  </p>
-
-  <!-- ======================================================== -->
-  <!-- ANIMATED PULSING LASER SEPARATOR                         -->
-  <!-- ======================================================== -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Neon Divider" />
-
-  <!-- ======================================================== -->
-  <!-- QUICK NAVIGATION HUD                                     -->
-  <!-- ======================================================== -->
-  <p align="center">
-    <a href="#-system-telemetry--diagnostics"><code>[ ⚡ TELEMETRY ]</code></a> &nbsp;•&nbsp;
-    <a href="#-flagship-deployments--expeditions"><code>[ 🚀 EXPEDITIONS ]</code></a> &nbsp;•&nbsp;
-    <a href="#-the-arsenal--tech-matrix"><code>[ 🛠️ ARSENAL ]</code></a> &nbsp;•&nbsp;
-    <a href="#-live-telemetry--github-metrics"><code>[ 📊 METRICS ]</code></a> &nbsp;•&nbsp;
-    <a href="#-quantum-grid-snake"><code>[ 🐍 GRID SNAKE ]</code></a> &nbsp;•&nbsp;
-    <a href="#-transmission-frequencies"><code>[ 📡 TRANSMISSIONS ]</code></a>
-  </p>
+<a href="mailto:greatansh10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://auratip.live">
+<img src="https://img.shields.io/badge/AuraTip-FF007F?style=for-the-badge&logo=sparkles&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/GR8ANSH">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
 
 </div>
-
-<br />
-
-<!-- ======================================================== -->
-<!-- SECTION: SYSTEM TELEMETRY / ABOUT ME TERMINAL            -->
-<!-- ======================================================== -->
-## ⚡ System Telemetry // Diagnostics
-
-```yaml
-╭──────────────────────────────────────────────────────────────────────────────╮
-│  OPERATOR     : Ansh Singh (GR8ANSH)                                         │
-│  SECURITY LVL : Level-5 Full-Stack Engineer & Systems Architect              │
-│  DOMAIN       : High-Throughput Web, Microservices & Real-Time Event Meshes  │
-│  CORE MISSION : Architecting resilient, sub-second creator economies         │
-│  CURRENT OPS  : Scaling AuraTip (https://auratip.live) & Discord Bot Nodes   │
-│  WEAPONS      : TypeScript • Node.js • Express • React • Prisma • WebSockets │
-│  DATA CORE    : PostgreSQL • MongoDB • Redis • JSON Audit Streams            │
-│  LOCATION     : India [IN] // GMT+05:30                                      │
-│  DIRECTIVE    : "Ship relentlessly. Benchmark obsessively. Zero latency."    │
-╰──────────────────────────────────────────────────────────────────────────────╯
-```
-
-### 🛰️ Operator Briefing
-I'm **Ansh Singh**, a software engineer and builder driven by high-concurrency systems, interactive interfaces, and developer-grade tooling. 
-
-- 🌌 **Founder & Architect** of **[AuraTip](https://auratip.live)** — powering next-gen live streaming monetization with instantaneous tip alerts, automated creator onboarding, and responsive dashboards.
-- ⚡ **Real-Time Specialist** — building resilient event backbones using WebSockets, Gateway APIs, and pub-sub pipelines that never drop a packet.
-- 🛠️ **Full-Stack Mastery** — comfortable anywhere between raw database indexes and pixel-perfect neon responsive UI.
-- 🎯 **Continuous Optimization** — obsessed with sub-millisecond execution times, clean architecture, and bulletproof API contracts.
-
-<br />
+<p></p>
 
 <!-- ======================================================== -->
-<!-- SECTION: FLAGSHIP PROJECTS & EXPEDITIONS                 -->
+<!-- PERSONAL BIO & MISSION DIRECTIVE                         -->
 <!-- ======================================================== -->
-## 🚀 Flagship Deployments // Expeditions
+<p align="justify">
+Welcome to my GitHub page! I am <b>Ansh Singh</b> (<a href="https://github.com/GR8ANSH">@GR8ANSH</a>), a Full-Stack Systems Engineer and builder passionate about architecting high-throughput applications, event-driven backends, and responsive user experiences. 
+
+I am the founder and lead developer of <a href="https://auratip.live"><b>AuraTip</b></a> — an instant live-streaming tipping and creator monetization platform equipped with real-time overlay synchronization, custom visual donation auras, and an intelligent Discord Gateway automation bot. I love turning complex architectural problems into elegant, sub-second, zero-latency software.
+</p>
+
+<!-- ======================================================== -->
+<!-- MY FAVORITE TOOLS AND TECHNOLOGIES ⚙️                     -->
+<!-- ======================================================== -->
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am passionate about
 
 <table>
+  <!-- ROW 1: LANGUAGES & FRONTEND -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ AuraTip Platform</h3>
-      <p align="center">
-        <a href="https://auratip.live">
-          <img src="https://img.shields.io/badge/LIVE_PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
-        </a>
-      </p>
-      <p>
-        <strong>Next-Gen Creator Monetization & Live Alert Engine</strong><br />
-        Engineered for streamers and creators to accept instant tipping with zero friction, multi-tiered visual aura notifications, and live stream overlay sync.
-      </p>
-      <ul>
-        <li>⚡ <b>Sub-second alert dispatch</b> to OBS / Streamlabs overlays via WebSockets</li>
-        <li>🛡️ <b>Secure creator payouts</b> and transaction verification pipelines</li>
-        <li>🎨 <b>Dynamic Aura themes</b> responsive to tip volume and user tiers</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-Framework-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AuraTip Discord Gateway</h3>
-      <p align="center">
-        <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot">
-          <img src="https://img.shields.io/badge/REPO-Auratip--Discord--Bot-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="AuraTip Discord Bot" />
-        </a>
-      </p>
-      <p>
-        <strong>Official Discord Automation & Creator Gateway</strong><br />
-        Intelligent multi-tier dispatch bot that connects the AuraTip tipping engine directly into Discord communities and creator servers.
-      </p>
-      <ul>
-        <li>🔐 <b>Personal DM Onboarding</b> — delivers credentials via encrypted DM</li>
-        <li>🎯 <b>Username Resolution</b> — maps handles to Discord Snowflake IDs</li>
-        <li>📢 <b>Smart Dispatch Engine</b> — DM → Channel → Webhook failover routing</li>
-        <li>📜 <b>Persistent JSON Audit Logging</b> for tamper-evident dispatch history</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Dashboard-Web%20UI-00F0FF?style=flat-square&logo=html5&logoColor=black" />
-        <img src="https://img.shields.io/badge/License-MIT-39FF14?style=flat-square" />
-      </p>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+
+  <!-- ROW 2: DATABASES, APIS & BACKEND -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma ORM
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord API" />
+      <br>Discord.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Rest API
+    </td>
+  </tr>
+
+  <!-- ROW 3: DEVOPS, TOOLS & CLOUD -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+      <br>NPM
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>🔍 Tap to inspect AuraTip Core Architecture & Technical Flow</b></summary>
-  <br />
-
-```mermaid
-flowchart LR
-    A["👤 Supporter"] -->|"Tip Dispatch"| B["⚡ AuraTip Engine (auratip.live)"]
-    B -->|"WebSocket Payload"| C["📺 Stream Overlay (OBS / Browser)"]
-    B -->|"Context API"| D["🤖 AuraTip Discord Gateway"]
-    D -->|"Direct Message"| E["💬 Creator DM"]
-    D -->|"Channel Broadcast"| F["📢 Server Alerts"]
-    D -->|"Fallback Routing"| G["🪝 Webhook Backup"]
-```
-</details>
-
-<br />
-
 <!-- ======================================================== -->
-<!-- SECTION: TECHNICAL ARSENAL / SKILL MATRIX                -->
+<!-- FEATURED PROJECTS & DEPLOYMENTS 📌                       -->
 <!-- ======================================================== -->
-## 🛠️ The Arsenal // Tech Matrix
+## Featured Projects & Deployments 📌
 
-<div align="center">
+<details open>
+  <summary>Flagship Deployments & Repositories 🚀</summary>
+  <br/>
 
-### 💻 Core Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### ⚙️ Backend, APIs & Real-Time Engine
-<p>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
-  <img src="https://img.shields.io/badge/REST_APIs-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Webhooks" />
-</p>
-
-### 🎨 Frontend & Interface Engineering
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
-</p>
-
-### 🗄️ Database & Storage Layer
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### ☁️ Cloud, DevOps & Environments
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-</p>
-
-</div>
-
-<br />
-
-<!-- ======================================================== -->
-<!-- SECTION: DYNAMIC GITHUB TELEMETRY & STREAK CARDS         -->
-<!-- ======================================================== -->
-## 📊 Live Telemetry // GitHub Metrics
-
-<div align="center">
-
-  <table border="0">
+  <table>
     <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/GR8ANSH">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=GR8ANSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8" width="100%" alt="Ansh's GitHub Stats" />
-        </a>
+      <!-- AURATIP LIVE PLATFORM -->
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ AuraTip Platform</h3>
+        <p align="center">
+          <a href="https://auratip.live">
+            <img src="https://img.shields.io/badge/LIVE_PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117" alt="AuraTip Platform" />
+          </a>
+        </p>
+        <p>
+          <b>Live Streaming Creator Monetization & Tipping Ecosystem</b><br/>
+          Engineered for streamers and content creators to accept frictionless digital tips, dynamic visual aura alerts on OBS/Streamlabs overlays, and automated creator onboarding.
+        </p>
+        <ul>
+          <li>⚡ <b>Sub-second WebSocket dispatch</b> to live stream overlays</li>
+          <li>🛡️ <b>Secure creator payouts</b> & transaction verification engine</li>
+          <li>🎨 <b>Dynamic Aura themes</b> responsive to tip volume and tiers</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        </p>
       </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/GR8ANSH">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=GR8ANSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94a3b8" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/GR8ANSH">
-          <img src="https://streak-stats.demolab.com?user=GR8ANSH&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak Stats" />
-        </a>
+
+      <!-- AURATIP DISCORD BOT -->
+      <td width="50%" valign="top">
+        <h3 align="center">🤖 AuraTip Discord Gateway</h3>
+        <p align="center">
+          <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot">
+            <img src="https://img.shields.io/badge/GITHUB_REPO-Auratip--Discord--Bot-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="AuraTip Discord Bot" />
+          </a>
+        </p>
+        <p>
+          <b>Official Discord Automation & Creator Integration Gateway</b><br/>
+          Intelligent multi-tier dispatch bot that connects the AuraTip tipping engine directly into Discord communities and creator servers.
+        </p>
+        <ul>
+          <li>🔐 <b>Personal DM Onboarding</b> — delivers credentials securely in private DMs</li>
+          <li>🎯 <b>Username Resolution</b> — maps handles/mentions to Discord Snowflake IDs</li>
+          <li>📢 <b>Smart Dispatch</b> — DM → Channel → Webhook failover routing</li>
+          <li>📜 <b>Persistent JSON Audit Logging</b> for tamper-evident dispatch history</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Dashboard-00F0FF?style=flat-square&logo=html5&logoColor=black" />
+          <img src="https://img.shields.io/badge/License-MIT-39FF14?style=flat-square" />
+        </p>
       </td>
     </tr>
   </table>
 
-</div>
-
-<br />
-
-<!-- ======================================================== -->
-<!-- SECTION: ANIMATED CONTRIBUTION SNAKE                     -->
-<!-- ======================================================== -->
-## 🐍 Quantum Grid Snake // Activity Stream
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-  <p><sub><i>Automated via GitHub Actions • Consuming commits across the space-time grid</i></sub></p>
-</div>
-
-<br />
-
-<!-- ======================================================== -->
-<!-- SECTION: CYBERPUNK TERMINAL PHILOSOPHY                   -->
-<!-- ======================================================== -->
-## 💡 Developer Protocol // Philosophy
-
-<div align="center">
-  <a href="https://github.com/GR8ANSH">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=const+engineer+%3D+new+Engineer('Ansh+Singh')%3B;while(engineer.isBreathing())+%7B+engineer.buildFuture()%3B+%7D;console.log('Zero+downtime.+Infinite+scalability.')%3B" alt="Terminal Code Philosophy" />
-  </a>
-</div>
-
-<br />
-
-<!-- ======================================================== -->
-<!-- SECTION: TRANSMISSION FREQUENCIES / CONNECT              -->
-<!-- ======================================================== -->
-## 📡 Transmission Frequencies // Open Comms
-
-<div align="center">
-  <p>Got a challenging architecture, an ambitious project, or want to collaborate on high-scale systems? Connect through the network:</p>
+  <br/>
   
-  <p>
-    <a href="mailto:greatansh10@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/DIRECT_EMAIL-greatansh10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ansh Singh" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/GR8ANSH" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-GR8ANSH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    &nbsp;
-    <a href="https://auratip.live" target="_blank">
-      <img src="https://img.shields.io/badge/PLATFORM-auratip.live-FF007F?style=for-the-badge&logo=lightning&logoColor=white" alt="AuraTip Platform" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/DISCORD-gr8ansh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
-  
-  <br />
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Footer Laser" />
-
   <p align="center">
-    <sub><b>SYSTEM GR8ANSH.SYS</b> // BUILT WITH INTENT & OBSESSIVE CRAFTSMANSHIP // 2026</sub>
+    <a href="https://github.com/GR8ANSH/Auratip-Discord-Bot">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=GR8ANSH&repo=Auratip-Discord-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8" alt="Auratip-Discord-Bot Pin" />
+    </a>
   </p>
+
+</details>
+
+<!-- ======================================================== -->
+<!-- GITHUB STATS & METRICS 📊 (RZASHAKERI STYLE)              -->
+<!-- ======================================================== -->
+## Github stats 📊
+
+<details open>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/GR8ANSH">
+      <img alt="GR8ANSH's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=GR8ANSH&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8" height="192px"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/GR8ANSH">
+      <img alt="GR8ANSH's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=GR8ANSH&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94a3b8" height="192px"/>
+    </a>
+  </p>
+  <br/>
+</details>
+
+<details>
+  <summary>Streak Stats 🔥</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/GR8ANSH">
+      <img alt="GR8ANSH's Streak Stats" src="https://streak-stats.demolab.com?user=GR8ANSH&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=GR8ANSH&label=PROFILE+VIEWS&style=for-the-badge&color=00f0ff" alt="Profile Views" />
+  </p>
+</details>
+
+<details open>
+  <summary>Quantum Grid Snake 🐍</summary>
+  <br/>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/GR8ANSH/GR8ANSH/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
+    <p><sub><i>Automated via GitHub Actions • Consuming commits across the grid</i></sub></p>
+  </div>
+</details>
+
+<!-- ======================================================== -->
+<!-- DEVELOPER PROTOCOL & PHILOSOPHY 💡                        -->
+<!-- ======================================================== -->
+## Developer Protocol & Philosophy 💡
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=const+engineer+%3D+new+Engineer('Ansh+Singh')%3B;while(engineer.isBreathing())+%7B+engineer.buildFuture()%3B+%7D;console.log('Zero+downtime.+Infinite+scalability.')%3B" alt="Terminal Code Philosophy" />
+</div>
+
+<br/>
+
+<!-- ======================================================== -->
+<!-- ANIMATED RUNNING DINO (RZASHAKERI FOOTER MASCOT)          -->
+<!-- ======================================================== -->
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" style="display: block; opacity: 1;" width="100%">
 </div>
